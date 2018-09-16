@@ -1,7 +1,7 @@
 /**
  * HelloWorld Hackathon
  *
- * This program will generate random shapes to simuilate abstract art
+ * This program will generate random shapes to simulate abstract art
  *
  * Clark Chan, chan239@purdue.edu, lc2
  *
